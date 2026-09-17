@@ -1,0 +1,7 @@
+{
+  "name": "Web Soundbox UMKM & Scraper Mutasi",
+  "description": "Aplikasi Web Soundbox Kasir UMKM dengan pemutar suara pengumuman QRIS (variasi karakter Laras, Amoy, Slamet), simulasi scraper mutasi e-wallet, dan dokumentasi arsitektur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

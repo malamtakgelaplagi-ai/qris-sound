@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "UMKM Soundbox Cookie Sync",
+  "version": "1.0",
+  "description": "Automatically syncs active merchant sessions to your Soundbox Web App.",
+  "permissions": ["cookies", "storage"],
+  "host_permissions": [
+    "https://*.gobiz.co.id/*",
+    "https://*.danabisnis.id/*",
+    "https://aplikasi-sewa.com/*",
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
